@@ -6,3 +6,4 @@
 4- creating DAX  measure
 5- visuals in the dashboar
 
+![project](https://github.com/AhmadSerry/Adventure-Works-Dashboard-/assets/130345243/a6e046e5-a4d1-4f8b-a174-4390ae36e07b)
